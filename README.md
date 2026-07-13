@@ -31,6 +31,7 @@ Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 # Dashboard
 <img width="1615" height="738" alt="Dashboard" src="https://github.com/user-attachments/assets/d6073045-8791-4949-926e-7012a015e142" />
+
 ## Project Insight
 Women customers are more likely to buy products compared to men (~65%).
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
